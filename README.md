@@ -1,4 +1,5 @@
-## Audio streaming server plugin comes with "ServerRoot" project (real-time audio transport)
+# Audio streaming server plugin comes with "ServerRoot" project (real-time audio transport)
+## 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,8 +18,6 @@
 ## Introduction
 
 The Real-Time Audio Transport Server is a plugin for the RootServer project designed to provide real-time audio streaming capabilities. This plugin enables audio transport across networked devices, making it ideal for applications such as online gaming, VoIP communication, and collaborative audio projects.
-
-![Real-Time Audio Transport in Action](assets/in_action.png)
 
 ## Features
 
