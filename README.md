@@ -1,4 +1,4 @@
-##Audio streaming server plugin comes with "ServerRoot" project (real-time audio transport)
+## Audio streaming server plugin comes with "ServerRoot" project (real-time audio transport)
 
 ## Table of Contents
 - [Introduction](#introduction)
