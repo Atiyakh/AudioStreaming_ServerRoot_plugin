@@ -4,16 +4,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Configuring with RootServer](#configuring-with-rootserver)
-  - [Starting the Server](#starting-the-server)
-- [API Documentation](#api-documentation)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
